@@ -28,12 +28,13 @@ gesture_3d_viewer.py is a small, lightweight Python viewer for exploring 3D gest
             
 **Step 3:** Wait until all installations are completed successfully. Then, run the program and see your result!
 
-# output
-
+# Output
+<img width="1365" height="726" alt="1" src="https://github.com/user-attachments/assets/80049843-c9cc-467e-ae17-2afb31d5c969" />
 <img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/c97a7f51-81f9-4c15-bf07-152406424a39" />
 <img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/ff51fde1-a044-4d23-8072-beed7eb287ed" />
 <img width="1365" height="726" alt="image" src="https://github.com/user-attachments/assets/d2d0c1b5-ebc9-49ff-8709-7d57bb6c472b" />
 <img width="1365" height="726" alt="image" src="https://github.com/user-attachments/assets/17fa7c7a-5730-4fff-9ad0-eee58bbb9b18" />
+<img width="1363" height="726" alt="2" src="https://github.com/user-attachments/assets/2f715553-f838-47e0-b446-3e6bc16508df" />
 
 
 **📬 Contact**
